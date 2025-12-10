@@ -1,0 +1,2 @@
+edcc0f5b2a385631af53bde9ae4c2f187e5684361496f2866bf12a770244e976  GitGlow-macOS-Universal-v1.1.0.dmg
+add9a2ecefb5e8ab795624afcabe916eb80cbab332d8dcdf0d385a26095ee2a6  GitGlow-Windows-x64-v1.1.0.exe
